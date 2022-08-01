@@ -38,9 +38,10 @@ const Portfolio = () => {
             <img src={IMG3} alt="React Password Generator" />
           </div>
           <h3>Password Generator</h3>
+          <div className='portfolio__item-cta'>
           <a href="https://github.com/cliff-folsom/pw-gen" target="_blank" rel='noreferrer' className='btn'>Github</a>
           <a href="https://fervent-volhard-f2991a.netlify.app/" target="_blank" rel='noreferrer' className='btn btn-primary'>Live Demo</a>
-          
+          </div>
         </article>  
 {/*
         <article className='portfolio__item'>
