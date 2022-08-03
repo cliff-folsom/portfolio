@@ -1,4 +1,4 @@
-// import React from 'react'
+import React from 'react'
 import './Portfolio.css'
 import IMG1 from '../../assets/pw-gen_41.png'
 import IMG2 from '../../assets/tictactoe_40.png'
@@ -37,7 +37,7 @@ const Portfolio = () => {
           <div className='portfolio__item-image'>
             <img src={IMG3} alt="React Password Generator" />
           </div>
-          <h3>Password Generator</h3>
+          <h3>Working on more</h3>
           <div className='portfolio__item-cta'>
           <a href="https://github.com/cliff-folsom/pw-gen" target="_blank" rel='noreferrer' className='btn'>Github</a>
           <a href="https://fervent-volhard-f2991a.netlify.app/" target="_blank" rel='noreferrer' className='btn btn-primary'>Live Demo</a>
