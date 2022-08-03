@@ -8,16 +8,11 @@ import Portfolio from './components/Portfolio/Portfolio'
 import Testimonials from './components/Testimonials/Testimonials'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
-import Favicon from "react-favicon";
-import img from './assets/cliff1.jpg'
 
 
 const App = () => {
   return (
     <>
-        <div>
-          <Favicon url={img} />
-        </div>
         <Header />
         <Nav />
         <About />
