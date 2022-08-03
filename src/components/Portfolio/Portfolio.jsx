@@ -29,7 +29,7 @@ const Portfolio = () => {
           <h3>Tic-tac-toe</h3>
           <div className='portfolio__item-cta'>
           <a href="https://github.com/cliff-folsom/tic-tac-toe" target="_blank" rel='noreferrer' className='btn'>Github</a>
-          <a href="https://github.com/cliff-folsom/tic-tac-toe" target="_blank" rel='noreferrer' className='btn btn-primary'>Live Demo</a>
+          <a href="/home/cliff/Projects/my-app/build" target="_blank" rel='noreferrer' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>  
 
