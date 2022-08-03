@@ -17,8 +17,8 @@ const Portfolio = () => {
           </div>
           <h3>Password Generator</h3>
           <div className='portfolio__item-cta'>
-          <a href="https://github.com/cliff-folsom/pw-gen" target="_blank" rel='noreferrer' className='btn'>Github</a>
-          <a href="https://fervent-volhard-f2991a.netlify.app/" target="_blank" rel='noreferrer' className='btn btn-primary'>Live Demo</a>
+          <a href="https://github.com/cliff-folsom/pw-gen" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
+          <a href="https://fervent-volhard-f2991a.netlify.app/" target="_blank" rel='noopener noreferrer' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>  
 
@@ -28,8 +28,8 @@ const Portfolio = () => {
           </div>
           <h3>Tic-tac-toe</h3>
           <div className='portfolio__item-cta'>
-          <a href="https://github.com/cliff-folsom/tic-tac-toe" target="_blank" rel='noreferrer' className='btn'>Github</a>
-          <a href="/home/cliff/Projects/my-app/build" target="_blank" rel='noreferrer' className='btn btn-primary'>Live Demo</a>
+          <a href="https://github.com/cliff-folsom/tic-tac-toe" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
+          <a href="/home/cliff/Projects/my-app/build" target="_blank" rel='noopener noreferrer' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>  
 
@@ -39,8 +39,8 @@ const Portfolio = () => {
           </div>
           <h3>Working on more</h3>
           <div className='portfolio__item-cta'>
-          <a href="https://github.com/cliff-folsom/pw-gen" target="_blank" rel='noreferrer' className='btn'>Github</a>
-          <a href="https://fervent-volhard-f2991a.netlify.app/" target="_blank" rel='noreferrer' className='btn btn-primary'>Live Demo</a>
+          <a href="https://github.com/cliff-folsom/pw-gen" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
+          <a href="https://fervent-volhard-f2991a.netlify.app/" target="_blank" rel='noopener noreferrer' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>  
 {/*
@@ -49,7 +49,7 @@ const Portfolio = () => {
             <img src={IMG1} alt="React Password Generator" />
           </div>
           <h3>Password Generator</h3>
-          <a href="https://github.com/cliff-folsom/pw-gen" target="_blank" rel='noreferrer' className='btn'>Github</a>
+          <a href="https://github.com/cliff-folsom/pw-gen" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
           <a href="https://fervent-volhard-f2991a.netlify.app/" target="_blank" rel='noreferrer' className='btn btn-primary'>Live Demo</a>
           
   </article> */}  
