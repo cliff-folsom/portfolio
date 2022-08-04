@@ -35,12 +35,12 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG3} alt="React Password Generator" />
+            <img src={IMG3} alt="Recipe Search" />
           </div>
-          <h3>Working on more</h3>
+          <h3>Recipe Card Search</h3>
           <div className='portfolio__item-cta'>
           <a href="https://github.com/cliff-folsom/pw-gen" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
-          <a href="https://fervent-volhard-f2991a.netlify.app/" target="_blank" rel='noopener noreferrer' className='btn btn-primary'>Live Demo</a>
+          <a href="https://cozy-sunflower-ee9b60.netlify.app/" target="_blank" rel='noopener noreferrer' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>  
 {/*
