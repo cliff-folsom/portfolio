@@ -11,8 +11,8 @@ import {SiTypescript} from 'react-icons/si'
 const Experience = () => {
   return (
     <section id='Experience'>
-      <h5>Skills I've acquired</h5>
-      <h2>My experience</h2>
+      <h5>Experience</h5>
+      <h2>Skills I've acquired</h2>
 
       <div className="container experience__container">
         <div className="experience__frontend">
