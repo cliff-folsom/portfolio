@@ -2,7 +2,7 @@ import React from 'react'
 import './Portfolio.css'
 import IMG1 from '../../assets/pw-gen_41.png'
 import IMG2 from '../../assets/tictactoe_40.png'
-import IMG3 from '../../assets/recipe.jpg'
+import IMG3 from '../../assets/recipe_50.jpg'
 
 const Portfolio = () => {
   return (
