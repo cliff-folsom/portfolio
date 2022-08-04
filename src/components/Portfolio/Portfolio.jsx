@@ -2,7 +2,7 @@ import React from 'react'
 import './Portfolio.css'
 import IMG1 from '../../assets/pw-gen_41.png'
 import IMG2 from '../../assets/tictactoe_40.png'
-import IMG3 from '../../assets/cat-typing1.jpg'
+import IMG3 from '../../assets/recipe.jpg'
 
 const Portfolio = () => {
   return (
@@ -40,7 +40,7 @@ const Portfolio = () => {
           <h3>Recipe Card Search</h3>
           <div className='portfolio__item-cta'>
           <a href="https://github.com/cliff-folsom/pw-gen" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
-          <a href="https://cozy-sunflower-ee9b60.netlify.app/" target="_blank" rel='noopener noreferrer' className='btn btn-primary'>Live Demo</a>
+          <a href="https://recipes.netlify.app/" target="_blank" rel='noopener noreferrer' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>  
 {/*
