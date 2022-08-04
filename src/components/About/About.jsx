@@ -21,7 +21,7 @@ const About = () => {
         <div className=" about__container">
           <article className="about__card">
             <MdWorkspacesOutline  className='about__icon'/>
-            <h5>Experience</h5>
+            <a href="#Experience"><h5>Experience</h5></a>
             <small>2 Years</small>
           </article>
 
@@ -33,7 +33,7 @@ const About = () => {
 
           <article className="about__card">
             <AiOutlineFundProjectionScreen  className='about__icon'/>
-            <h5>Projects</h5>
+            <a href="#Portfolio"><h5>Projects</h5></a>
             <small>More all the time</small>
           </article>
         </div>

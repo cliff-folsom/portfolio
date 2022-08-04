@@ -61,8 +61,8 @@
         -ms-border-radius: 1rem;
         -o-border-radius: 1rem;
     padding: 2rem;
-    text-align: center;
-    transition: var(--transition);
+    text-align: center; }
+    /* transition: var(--transition);
         -webkit-transition: var(--transition);
         -moz-transition: var(--transition);
         -ms-transition: var(--transition);
@@ -73,7 +73,7 @@
     background: transparent;
     border-color: var(--color-primary);
     cursor: default;
-}
+} */
 
 .about-icon {
     color: var(--color-primary);

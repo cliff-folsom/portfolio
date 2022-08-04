@@ -53,6 +53,7 @@ const Portfolio = () => {
           <a href="https://fervent-volhard-f2991a.netlify.app/" target="_blank" rel='noreferrer' className='btn btn-primary'>Live Demo</a>
           
   </article> */}  
+        <small>*More being made all the time*</small>
       </div>
     </section> 
   )
