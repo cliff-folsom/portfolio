@@ -25,7 +25,7 @@ const Services = () => {
             </li>
             <li>
               <BsCheckCircleFill className='service__list-icon'/>
-              <p>Ccontinuously test and improve products over time</p>
+              <p>Ccontinuously test and improve products over time to stay relevant</p>
             </li>
             <li>
               <BsCheckCircleFill className='service__list-icon'/>
@@ -48,15 +48,19 @@ const Services = () => {
             </li>
             <li>
               <BsCheckCircleFill className='service__list-icon'/>
-              <p>Writing and reviewing code for sites, typically HTML, CSS, and JavaScript</p>
+              <p>Writing and reviewing code, typically HTML, CSS, and JavaScript</p>
             </li>
             <li>
               <BsCheckCircleFill className='service__list-icon'/>
               <p>Integrating multimedia content onto a site</p>
             </li>
             <li>
+              <BsCheckCircleFill className='service__list-icon' />
+              <p>Updating content to keep your business up to date.</p>
+            </li>
+            <li>
               <BsCheckCircleFill className='service__list-icon'/>
-              <p>Keeping track of deadlines, project tasks, workflow, and budgets</p>
+              <p>Keeping track of deadlines, workflow, and budgets</p>
             </li>
           </ul>
         </article>
