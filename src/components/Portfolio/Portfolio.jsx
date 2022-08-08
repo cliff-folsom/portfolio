@@ -2,7 +2,8 @@ import React from 'react'
 import './Portfolio.css'
 import IMG1 from '../../assets/pw-gen_41.png'
 import IMG2 from '../../assets/tictactoe_50.png'
-import IMG3 from '../../assets/recipe_70.jpg'
+import IMG3 from '../../assets/recipe_80.jpg'
+import IMG4 from '../../assets/cap_60.jpg'
 
 const Portfolio = () => {
   return (
@@ -43,16 +44,15 @@ const Portfolio = () => {
           <a href="https://recipes.netlify.app/" target="_blank" rel='noopener noreferrer' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>  
-{/*
+
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
-            <img src={IMG1} alt="React Password Generator" />
+            <img src={IMG4} alt="www.captianpopculture.com" />
           </div>
-          <h3>Password Generator</h3>
-          <a href="https://github.com/cliff-folsom/pw-gen" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
-          <a href="https://fervent-volhard-f2991a.netlify.app/" target="_blank" rel='noreferrer' className='btn btn-primary'>Live Demo</a>
+          <h3>CaptainPopCulture.com</h3>
+          <a href="https://www.captainpopculture.com" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
           
-  </article> */}  
+  </article> 
         <small>*More being made all the time*</small>
       </div>
     </section> 
