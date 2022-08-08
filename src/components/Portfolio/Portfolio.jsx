@@ -50,7 +50,7 @@ const Portfolio = () => {
             <img src={IMG4} alt="www.captianpopculture.com" />
           </div>
           <h3>CaptainPopCulture.com</h3>
-          <a href="https://www.captainpopculture.com" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
+          <a href="https://www.captainpopculture.com" target="_blank" rel='noopener noreferrer' className='btn'>Go shopping</a>
           
   </article> 
         <small>*More being made all the time*</small>
