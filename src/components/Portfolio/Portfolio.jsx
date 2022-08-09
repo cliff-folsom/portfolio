@@ -14,7 +14,9 @@ const Portfolio = () => {
        <div className='container portfolio__container'>
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
+          <a href="https://fervent-volhard-f2991a.netlify.app/" target="_blank" rel='noopener noreferrer'>
             <img src={IMG1} alt="React Password Generator" />
+          </a>  
           </div>
           <h3>Password Generator</h3>
           <div className='portfolio__item-cta'>
@@ -25,7 +27,9 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
+          <a href="https://62ead3364761cf07ecffae24--earnest-puffpuff-33c05e.netlify.app/" target="_blank" rel='noopener noreferrer' >
             <img src={IMG2} alt="React Tic-Tac-Toe" />
+          </a>  
           </div>
           <h3>Tic-tac-toe</h3>
           <div className='portfolio__item-cta'>
@@ -36,7 +40,9 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
+          <a href="https://recipes.netlify.app/" target="_blank" rel='noopener noreferrer'>
             <img src={IMG3} alt="Recipe Search" />
+           </a> 
           </div>
           <h3>Recipe Card Search</h3>
           <div className='portfolio__item-cta'>
@@ -47,7 +53,9 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className='portfolio__item-image'>
+          <a href="https://www.captainpopculture.com" target="_blank" rel='noopener noreferrer'>
             <img src={IMG4} alt="www.captianpopculture.com" />
+          </a>  
           </div>
           <h3>CaptainPopCulture.com</h3>
           <a href="https://www.captainpopculture.com" target="_blank" rel='noopener noreferrer' className='btn'>Go shopping</a>
