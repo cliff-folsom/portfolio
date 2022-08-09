@@ -20,7 +20,7 @@ const Portfolio = () => {
           </div>
           <h3>Password Generator</h3>
           <div className='portfolio__item-cta'>
-          <a href="https://github.com/cliff-folsom/pw-gen" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
+          <a href="https://github.com/cfolsom86/pw-gen" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
           <a href="https://fervent-volhard-f2991a.netlify.app/" target="_blank" rel='noopener noreferrer' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>  
@@ -33,7 +33,7 @@ const Portfolio = () => {
           </div>
           <h3>Tic-tac-toe</h3>
           <div className='portfolio__item-cta'>
-          <a href="https://github.com/cliff-folsom/tic-tac-toe" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
+          <a href="https://github.com/cfolsom86/tic-tac-toe" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
           <a href="https://62ead3364761cf07ecffae24--earnest-puffpuff-33c05e.netlify.app/" target="_blank" rel='noopener noreferrer' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>  
@@ -46,7 +46,7 @@ const Portfolio = () => {
           </div>
           <h3>Recipe Card Search</h3>
           <div className='portfolio__item-cta'>
-          <a href="https://github.com/cliff-folsom/pw-gen" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
+          <a href="https://github.com/cfolsom86/recipe" target="_blank" rel='noopener noreferrer' className='btn'>Github</a>
           <a href="https://recipes.netlify.app/" target="_blank" rel='noopener noreferrer' className='btn btn-primary'>Live Demo</a>
           </div>
         </article>  
